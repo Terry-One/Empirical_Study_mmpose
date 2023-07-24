@@ -1,0 +1,5 @@
+dataset:
+https://lmb.informatik.uni-freiburg.de/resources/datasets/FreihandDataset.en.html
+
+annotation:
+https://download.openmmlab.com/mmpose/datasets/frei_annotations.zip
